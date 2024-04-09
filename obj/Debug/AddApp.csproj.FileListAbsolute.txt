@@ -1,0 +1,7 @@
+C:\Users\shagun.p_int1590\source\repos\Assignment\AddApp\bin\Debug\AddApp.exe.config
+C:\Users\shagun.p_int1590\source\repos\Assignment\AddApp\bin\Debug\AddApp.exe
+C:\Users\shagun.p_int1590\source\repos\Assignment\AddApp\bin\Debug\AddApp.pdb
+C:\Users\shagun.p_int1590\source\repos\Assignment\AddApp\obj\Debug\AddApp.csproj.AssemblyReference.cache
+C:\Users\shagun.p_int1590\source\repos\Assignment\AddApp\obj\Debug\AddApp.csproj.CoreCompileInputs.cache
+C:\Users\shagun.p_int1590\source\repos\Assignment\AddApp\obj\Debug\AddApp.exe
+C:\Users\shagun.p_int1590\source\repos\Assignment\AddApp\obj\Debug\AddApp.pdb
